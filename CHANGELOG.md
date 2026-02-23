@@ -5,6 +5,7 @@
 ### FEATURES/ENHANCEMENTS:
 
 * Updated various dependencies.
+* Bumped minimum required Python version to 3.10 to align with the `edgegrid-python` library requirement.
 
 ## 2.0.7 (Feb 3, 2026)
 
