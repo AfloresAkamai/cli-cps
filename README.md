@@ -2,7 +2,7 @@
 Provides a way to interact with the Akamai Certificate Provisioning System (CPS) via Open APIs. Provides various functionality such as viewing certificate details, generating audits, checking/acknowledging change statuses, creating/modifying certificates, and working with third party certificates.
 
 ## Local Install
-* Python 3+
+* Python 3.10+
 * pip install edgegrid-python
 
 ### Credentials
